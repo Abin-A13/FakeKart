@@ -1,0 +1,8 @@
+.Catagory-tab{
+    display: flex;
+    justify-content: space-around;
+    background-color: beige;
+}
+.Catagory-items{
+   border-radius: 3px;
+}
